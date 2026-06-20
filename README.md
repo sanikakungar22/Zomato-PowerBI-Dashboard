@@ -45,9 +45,12 @@ This dashboard provides valuable insights into restaurant trends and customer pr
 
 ![Zomato Dashboard](dashboard.png)
 
-## 📂 Dataset
+## 📂 ## Dataset
 
-Dataset sourced from **Kaggle**.
+The dataset used in this project was obtained from Kaggle.
+
+Dataset Link: [Zomato Dataset](https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data?select=zomato.csv)
+
 
 ## 🚀 Project Objective
 
